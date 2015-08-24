@@ -1,0 +1,197 @@
+10
+      GG
+     GG
+    G
+   G
+  GG GG  GG
+         G
+       GG
+      GG
+      G
+     G
+    G GGG
+       G
+       
+       G
+      G
+   G G
+GGG
+G
+GG
+G        GG
+GGG GG  GG
+    G
+
+    G
+   G
+gBBB   c  
+  gg     g
+ g      g
+ggg   gg  
+          
+  gggg   g
+        g 
+G  GG  ggg
+   G  g   
+  G       
+ G      B 
+GG    BBB 
+      B    
+     II c 
+    I I  c
+   II II c
+     IF b 
+gg GG   b 
+BB b c  gg
+B B b cggI
+  BBbb cgI
+gBBB   c c
+  iiiIIic 	    h
+ iiiIiIi c	   H
+iiiIIiII c
+ ii iIi b 
+gg GG   b 
+BBMbFc  g 
+  BMb cggI	      h
+  BBbbMcgI
+gBBB   c  	   H
+     II c 
+    IFI  c
+   II II c
+     I  b 
+gg GG   b 
+BB b cR g 	 h
+  B b cggI
+RRBBbb cgI
+gBBB   c  
+    FII c 	     H
+    I I  c
+   II II c
+     I  b 
+ggFGG   b 
+BB b c  g 
+  B b cggI
+  BBbb cgI
+gBBB   c  
+  gg     g
+ g      g
+ggg   gg  
+          
+  gggg   g
+        g 
+G  GG  ggg
+   G  g   
+  G       
+ G      B 
+GG    BBB 
+      B    
+     II c 
+    I I  c
+   II II c
+     IF b 
+gg GG   b 
+BBFb c  g 
+  B b cggI
+  BBbb cgI
+gBBB   c  
+     II c 
+    I I  c
+   II II c
+     I  b 
+gg GG  Fb 
+BB b c  g 
+  B bFcggI
+  BBbb cgI
+gBBB   c  
+     II c 
+    I I  c
+   II II c
+     I  b 
+gg GG   b 
+BB b c  g 
+  B b cggI
+  BBbb cgI
+gBBB   c  
+     II c 
+    I I  c
+   II II c
+     I  b 
+gg GG   b  
+gBBB   c  
+  gg     g
+ g      g
+ggg   gg  
+          
+  gggg   g
+        g 
+G  GG  ggg
+   G  g   
+  G       
+ G      B 
+GG    BBB 
+      B    
+gBBB   c  
+  gg     g
+ g      g
+ggg   gg  
+          
+  gggg   g
+        g 
+G  GG  ggg
+   G  g   
+  G       
+ G      B 
+GG    BBB 
+      B    
+gBBB   c  
+  gg     g
+ g      g
+ggg   gg  
+          
+  gggg   g
+        g 
+G  GG  ggg
+   G  g   
+  G       
+ G      B 
+GG    BBB 
+      B    
+gBBB   c  
+  gg     g
+ g      g
+ggg   gg  
+          
+  gggg   g
+        g 
+G  GG  ggg
+   G  g   
+  G       
+ G      B 
+GG    BBB 
+      B    
+gBBB   c  
+  gg     g
+ g      g
+ggg   gg  
+          
+  gggg   g
+        g 
+G  GG  ggg
+   G  g   
+  G       
+ G      B 
+GG    BBB 
+      B    
+gBBB   c  
+  gg     g
+ g      g
+ggg   gg  
+          
+  gggg   g
+        g 
+G  GG  ggg
+   G  g   
+  G       
+ G      B 
+GG    BBB 
+      B    
