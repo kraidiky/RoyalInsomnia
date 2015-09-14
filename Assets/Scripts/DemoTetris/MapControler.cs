@@ -40,7 +40,7 @@ public class MapControler : MonoBehaviour {
         { 'i', "Ice2MapElement" },
         { 'M', "MonsterMapElement" },
         { 'R', "RockMapElement" },
-        { 'S', "SnadMapElement" },
+        { 'S', "SandMapElement" },
         { 's', "SnowMapElement" },
         { 'T', "TechMapElement" },
         { 'W', "WoodMapElement" }
